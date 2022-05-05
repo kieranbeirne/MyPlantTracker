@@ -1,7 +1,7 @@
 # MyPlantTracker
 -This is my Java application that holds an SQL database of how often my plants have to be watered. 
 
--Uses JRE-17, sqlite, Swing, the Java Activation Framework(JAF) and the Java Mail API.
+-Uses JRE-17, sqlite, Swing, the Java Activation Framework (JAF) and the Java Mail API.
 
 -Necessary libraries - activation.jar, mail.jar, rs2xml.jar, smtp.jar, sqlite-jdbc-3.36.0.3.jar
 
